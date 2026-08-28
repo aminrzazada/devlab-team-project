@@ -76,7 +76,7 @@ Aşağı maaş alan işçilər arasında şirkəti tərk etmə ehtimalı kəskin
 
 ```bash
 # Repository-ni klonlayın
-git clone [https://github.com/istifadəçi-adınız/hr-attrition-analysis.git](https://github.com/istifadəçi-adınız/hr-attrition-analysis.git)
+git clone it clone https://github.com/aminrzazada/devlab-team-project.git
 
 # Qovluğa keçin
 cd hr-attrition-analysis
